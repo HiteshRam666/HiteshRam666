@@ -1,4 +1,4 @@
-![logo](https://github.com/HiteshRam666/HiteshRam666/blob/main/banner.mp4)
+![logo](https://github.com/HiteshRam666/HiteshRam666/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Hitesh Ram</h1>
 <h3 align="center">Machine Learning and Deep Learning Enthusiast</h3>
 
